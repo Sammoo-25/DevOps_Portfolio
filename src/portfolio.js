@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://dev-ops-portfolio-k7q5uhmya-samvels-projects-2c0bda02.vercel.app/',
+  homepage: 'dev-ops-portfolio-lac.vercel.app',
   title: 'DevOps.',
 }
 
