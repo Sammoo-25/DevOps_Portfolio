@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rjshkhr.github.io/cleanfolio',
+  homepage: 'https://dev-ops-portfolio-k7q5uhmya-samvels-projects-2c0bda02.vercel.app/',
   title: 'DevOps.',
 }
 
@@ -23,8 +23,8 @@ const projects = [
   {
     name: 'Terraform-AWS-production-infra',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['Terraform', 'AWS', 'Helm'],
+      'A modular, production-grade AWS infrastructure setup using Terraform. The project includes a 3-tier architecture with VPC, EC2, ALB, subnets, and security groups, all structured into reusable modules. Remote state management with S3 and DynamoDB is implemented, and the codebase is prepared for CI/CD automation with GitHub Actions.',
+    stack: ['Terraform', 'AWS', 'Helm', 'GitHub'],
     sourceCode: 'https://github.com/Sammoo-25/Terraform-AWS-production-infra',
     livePreview: 'https://github.com',
   },
