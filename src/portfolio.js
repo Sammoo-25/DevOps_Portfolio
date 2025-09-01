@@ -10,7 +10,7 @@ const about = {
   role: 'DevOps Engineer',
   description:
     'DevOps Engineer focused on building reliable, scalable cloud systems and improving deployment workﬂows. Experienced with AWS, Docker, and Kubernetes, and known for a proactive, collaborative approach to solving complex problems.',
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/1AukCOG62QAIL5IcsOh4G3OytmTXayTM3/view',
   social: {
     linkedin: 'https://www.linkedin.com/in/samvel-shegiyan-85987b239/',
     github: 'https://github.com/Sammoo-25',
